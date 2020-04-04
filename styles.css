@@ -1,0 +1,21 @@
+
+.signup2{
+	margin-top: 10px;
+	
+	width: 500px;
+	border: 1px black solid;
+	background-color: #ADD8E6;
+	text-align: center; 
+
+}
+input{
+	width: 400px;
+	height:80px;
+}
+
+.login button{
+
+}
+td th{
+	border: 1px black solid;
+}
